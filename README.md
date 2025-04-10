@@ -1,1 +1,1 @@
-# Quick-Tip-Calculator
+This is a tip calculator, with it, you can calculate the amount you want to pay of tip along with the total value of your bill. You can also see how much it will cost spliting the bill with a friend or more.
